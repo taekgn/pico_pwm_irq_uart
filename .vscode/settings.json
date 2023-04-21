@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "clocks.h": "c",
+        "timer.h": "c",
+        "uart.h": "c",
+        "pwm.h": "c",
+        "printf.h": "c",
+        "irq.h": "c",
+        "scb.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "time.h": "c"
+    }
+}
